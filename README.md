@@ -1,7 +1,3 @@
-Here is the full markdown for your Multiplayer Beaver Habit Tracker README. This is tailored to match the "Data-Integrity" and "Concurrent User Session" framing on your TikTok-specific resume.
-
-Markdown
-
 # 🦫 Multiplayer Beaver Habit Tracker
 
 A collaborative, full-stack habit-tracking platform designed to manage high-concurrency interactions and ensure system-level data integrity. Users work together in "Colonies" to evolve a shared virtual pet through consistent, verified habit completion.
